@@ -1,0 +1,33 @@
+{
+  "name": "jquery.cookiefy",
+  "version": "1.0.4",
+  "homepage": "https://kmarryo.github.io/jquery.cookiefy/",
+  "authors": [
+    "Mario Lemke"
+  ],
+  "description": "Lightweight jQuery plugin to the EU cookie laws",
+  "main": "dist/jquery.cookiefy.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "cookie",
+    "eu",
+    "law",
+    "cookiefy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo",
+    "images"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8.0"
+  }
+}
